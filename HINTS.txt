@@ -1,0 +1,9 @@
+
+To determine your ip address:
+
+Linux: 
+/sbin/ifconfig eth0
+
+Windows:
+ipconfig
+
