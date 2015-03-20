@@ -1,0 +1,7 @@
+What does the user experience?
+After the user connects to the server to chat:
+--Display empty screen at the first log-in.
+--Server sends an "Activate" message to the client.
+--User is able to chat.
+--User sees the username next to every message.
+--Press Enter to send messages.
